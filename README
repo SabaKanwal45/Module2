@@ -1,0 +1,13 @@
+JavaScript code to Emulate Book Store operations
+User and admin side
+User side
+-user can sign up
+-user can login in his account
+-user can view his profile
+-User can view all the books
+-user can search books by author name and title
+-User can buy book, online payment by shopping Cart
+Admin Side
+-Admin Can add new books
+-Admin can view all Users
+-Admin can check books available in store
